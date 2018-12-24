@@ -1,2 +1,3 @@
 # Excel_stock_price_prediction
-by using neural network plugin, and pitching it against regression results for fun
+by using neural network plugin, and pitching it against regression results for fun...
+neuroXL plugin for neural network. Tookpak plugin for auto-regression
